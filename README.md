@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devbenitez08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in software develop and architecture
+- 🌱 I’m currently learning Go, Java and C++
 - 💞️ I’m looking to collaborate on excersices to logic programming
 - 📫 How to reach me ---- XD ----
 - 😄 Pronouns: ...
